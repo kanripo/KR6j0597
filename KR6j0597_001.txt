@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:58.627633
+#+DATE: 2015-08-30 20:35:59.708320
 #+TITLE: 佛說大普賢陀羅尼經
 #+PROPERTY: CBETA_ID T21n1367
 #+PROPERTY: ID KR6j0597
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1367
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0597_T_000-0884c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0597_T_001-0884c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1367¶
-
- 佛說大普賢陀羅尼經¶
+No. 1367¶
+佛說大普賢陀羅尼經¶
 ¶
 失譯人名今附梁錄¶
 
@@ -30,7 +29,7 @@ No.1367¶
 兵刃。除一切怨仇。除一切夜叉羅剎復多等¶
 畏。除一切不得食下鬼名。¶
 
-胡摩兜(一)烏奢睺睺胡摩兜(二)阿㝹羯卑胡摩¶
+胡摩兜(一)烏奢睺睺胡摩兜(二)阿[少/兔]羯卑胡摩¶
 兜(三)破波羅胡摩兜(四)莎呵(五)。¶
 
 呪水七遍與病人飲之。¶
@@ -67,7 +66,7 @@ No.1367¶
 
 於月生一日。設使左耳痛南向坐。右耳痛北¶
 向坐。東向門病人門內坐呪師門外坐。水亦¶
-門外二七遍三𠹀之。¶
+門外二七遍三[口*孫]之。¶
 
 淋鬼名¶
 
